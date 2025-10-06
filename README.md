@@ -6,8 +6,6 @@
 <p align="center">
   🎓 <b>IT Student</b> at VNU University of Engineering and Technology  
   <br>
-  💻 <b>Python & Git Learner</b> | Exploring open-source projects  
-  <br>
   🌱 Currently learning: Data structures, algorithms, and web development  
   <br>
   📫 Reach me on:
