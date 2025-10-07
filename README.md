@@ -18,7 +18,6 @@
 ### 🧠 About Me
 - 🔥 Passionate about building things that make life easier  
 - 🧩 Love solving problems & learning new technologies  
-- 🐍 Python enthusiast  
 - ✨ Motto: *"Code. Learn. Repeat."*
 
 ---
